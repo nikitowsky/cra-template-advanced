@@ -10,7 +10,7 @@ COPY . .
 RUN npm run build
 
 # Serve bundle
-FROM nginx
+FROM nginx:alpine
 
 COPY --from=builder /usr/app/config/nginx.conf /etc/nginx/conf.d/default.conf
 COPY --from=builder /usr/app/build /usr/share/nginx/html
