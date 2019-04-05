@@ -1,17 +1,16 @@
 # Create React App w/ TypeScript & Docker
 
-## Development
+## Getting started
 
+See [Create React App](https://facebook.github.io/create-react-app/docs/getting-started) documentation.
+
+## Working with Docker
+
+To build container simply run:
 ```bash
-docker-compose up --build
-```
-
-## Production build
-
-```bash
-# Build container
 docker build -t react-app .
-
-# Run container with website available on localhost:8000
+```
+And to run container follow this:
+```bash
 docker run -p 8000:80 react-app
 ```
