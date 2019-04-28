@@ -4,10 +4,10 @@ FROM node:alpine as builder
 WORKDIR /usr/app
 
 COPY package*.json ./
-RUN npm install
+RUN yarn install
 
 COPY . .
-RUN npm run build
+RUN yarn build
 
 # Serve bundle
 FROM nginx:alpine
