@@ -1264,7 +1264,7 @@
   resolved "https://registry.yarnpkg.com/@types/q/-/q-1.5.2.tgz#690a1475b84f2a884fd07cd797c00f5f31356ea8"
   integrity sha512-ce5d3q03Ex0sy4R14722Rmt6MT07Ua+k4FwDfdcToYJcMKNtRVQvJ6JCAPdAmAnbRb6CsX6aYb9m96NGod9uTw==
 
-"@types/react-dom@16.8.4":
+"@types/react-dom@^16.8.4":
   version "16.8.4"
   resolved "https://registry.yarnpkg.com/@types/react-dom/-/react-dom-16.8.4.tgz#7fb7ba368857c7aa0f4e4511c4710ca2c5a12a88"
   integrity sha512-eIRpEW73DCzPIMaNBDP5pPIpK1KXyZwNgfxiVagb5iGiz6da+9A5hslSX6GAQKdO7SayVCS/Fr2kjqprgAvkfA==
@@ -1279,7 +1279,7 @@
     "@types/prop-types" "*"
     csstype "^2.2.0"
 
-"@types/react@16.8.19":
+"@types/react@^16.8.19":
   version "16.8.19"
   resolved "https://registry.yarnpkg.com/@types/react/-/react-16.8.19.tgz#629154ef05e2e1985cdde94477deefd823ad9be3"
   integrity sha512-QzEzjrd1zFzY9cDlbIiFvdr+YUmefuuRYrPxmkwG0UQv5XF35gFIi7a95m1bNVcFU0VimxSZ5QVGSiBmlggQXQ==
@@ -8337,10 +8337,10 @@ react-error-overlay@^5.1.6:
   resolved "https://registry.yarnpkg.com/react-error-overlay/-/react-error-overlay-5.1.6.tgz#0cd73407c5d141f9638ae1e0c63e7b2bf7e9929d"
   integrity sha512-X1Y+0jR47ImDVr54Ab6V9eGk0Hnu7fVWGeHQSOXHf/C2pF9c6uy3gef8QUeuUiWlNb0i08InPSE5a/KJzNzw1Q==
 
-react-hot-loader@^4.9.0:
-  version "4.9.0"
-  resolved "https://registry.yarnpkg.com/react-hot-loader/-/react-hot-loader-4.9.0.tgz#498e5f76aae28bfd420efdabddf5af156745b4dd"
-  integrity sha512-1N6MWV9++qYWrrs41MRhxATwyx743tr8RpeyL1VOZ54zsU8fOx4slYreHZ8v2BDGVfy+dJ0myJZrJA9/26RlCA==
+react-hot-loader@^4.11.0:
+  version "4.11.0"
+  resolved "https://registry.yarnpkg.com/react-hot-loader/-/react-hot-loader-4.11.0.tgz#6a453ae4a2c96a2bd780dd9a763e07e4df535fb7"
+  integrity sha512-EXwYmn+7bU9GgidYjx36IfX1t9/mZlKN8TuGXW6C4J2fEL6cKh4QUtpY/toZe9QBoKMot7UfksFKzl7Wq2qJ+w==
   dependencies:
     fast-levenshtein "^2.0.6"
     global "^4.3.0"
