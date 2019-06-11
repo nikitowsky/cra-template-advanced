@@ -5,7 +5,7 @@ import App from '../App';
 
 afterEach(cleanup);
 
-it('<App /> renders without crash', async () => {
+it('<App /> renders without crash', () => {
   const { getByText } = render(<App />);
 
   expect(getByText(/Hello world!/i)).toBeTruthy();
