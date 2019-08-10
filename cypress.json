@@ -1,0 +1,9 @@
+{
+  "fixturesFolder": "src/e2e/__fixtures__",
+  "integrationFolder": "src/e2e",
+  "pluginsFile": false,
+  "screenshotsFolder": "src/e2e/__screenshots__",
+  "supportFile": false,
+  "video": false,
+  "videosFolder": "src/e2e/__videos__"
+}
