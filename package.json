@@ -26,9 +26,9 @@
   },
   "dependencies": {
     "@testing-library/jest-dom": "4.1.0",
-    "@testing-library/react": "9.1.3",
+    "@testing-library/react": "9.1.4",
     "@types/jest": "24.0.18",
-    "@types/node": "12.7.2",
+    "@types/node": "12.7.4",
     "@types/react": "16.9.2",
     "@types/react-dom": "16.9.0",
     "@types/react-router-dom": "4.3.5",
@@ -41,7 +41,7 @@
     "react-hot-loader": "4.12.12",
     "react-router-dom": "5.0.1",
     "react-scripts": "3.1.1",
-    "typescript": "3.5.3"
+    "typescript": "3.6.2"
   },
   "devDependencies": {
     "prettier": "1.18.2"
