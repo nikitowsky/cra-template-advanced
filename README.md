@@ -3,11 +3,11 @@
 ## Getting started
 
 ```bash
-npx create-react-app my-app --template borisowsky/advanced
+npx create-react-app my-app --template advanced
 
 # or
 
-yarn create react-app my-app --template borisowsky/advanced
+yarn create react-app my-app --template advanced
 ```
 
 More details can be found on [Create React App](https://facebook.github.io/create-react-app/docs/getting-started) documentation.
