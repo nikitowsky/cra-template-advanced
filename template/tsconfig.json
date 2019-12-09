@@ -14,7 +14,7 @@
     "noEmit": true,
     "jsx": "preserve",
     "isolatedModules": true,
-    "types": ["jest", "cypress"]
+    "types": ["jest"]
   },
   "include": ["src"]
 }
