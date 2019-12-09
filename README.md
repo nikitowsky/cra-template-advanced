@@ -1,4 +1,16 @@
-# Advanced Create React App template with TypeScript & Docker
+# The opinioned advanced well-structured TypeScript template for Create React App.
+
+## Features included
+
+- Opinioned project structure to create easy-maintainable React project.
+- [Hot module replacement](https://github.com/gaearon/react-hot-loader) to immediately see changes of your code in browser.
+- [Next.js](https://nextjs.org/)-like [routing](https://reacttraining.com/react-router/web/guides/quick-start).
+- Polyfills.
+- CSS normalization using [normalize.css](https://necolas.github.io/normalize.css/).
+- Built-in [Sass/SCSS](https://sass-lang.com/).
+- [VSCode](https://code.visualstudio.com/) debug configuration.
+- [Prettier](https://prettier.io/).
+- **Production-ready** [Docker](https://www.docker.com/) configuration.
 
 ## Getting started
 
